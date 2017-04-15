@@ -118,6 +118,11 @@ def showImage(src):
     cv2.imshow("glitchify.me", src)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
+
+# TODO
+def pixelSort(src, axis):
+    # vaporsomething
+
 # ---------------------------------------------------------------------------- #
 
 # HANDLERS #
